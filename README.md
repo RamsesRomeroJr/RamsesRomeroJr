@@ -5,11 +5,10 @@ I'm a Full Stack Software Engineer
 
 ## Languages & Tools
 
-- Languages: JavaScript, Python, TypeScript, Java, Swift
-- Frameworks and Libraries: Node, Express, Flask, React, Redux, Angular
-- Databases: PostgreSQL, MongoDB, DynamoDB
-- Cloud Infrastructure: Google Cloud Functions, Firebase, Firestore
-- Other: RESTFul, Microservices, Docker
+- Languages: JavaScript, Python
+- Frameworks and Libraries: Node, Express, Flask, React, Redux
+- Databases: PostgreSQL
+- Other:  Docker
 - Design: CSS3, HTML5, Styled Components, Material UI, Figma
 
 
