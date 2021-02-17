@@ -1,4 +1,4 @@
-# Ramses Romero | Fullstack Software Engineer
+# Ramses Romero | Fullstack Software Engineer |
 
 I'm a Full Stack Software Engineer whose passion lies in problem solving and learning.
 
