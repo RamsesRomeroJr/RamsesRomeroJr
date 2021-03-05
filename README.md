@@ -5,7 +5,7 @@ I'm a dedicated software developer with the innovative and creative mindset of a
 I love the process of watching a project go from planning to an actual functioning product, learning along the way through every  bug found hiding in files then coming out a better programmer
  
 ## Languages & Tools
-
+ 
 - Languages: JavaScript, Python
 - Frameworks and Libraries: Node, Express, Flask, React, Redux
 - Databases: PostgreSQL
