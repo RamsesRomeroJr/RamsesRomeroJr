@@ -13,7 +13,20 @@ I love the process of watching a project go from planning to an actual functioni
 - Design: CSS3, HTML5, Styled Components, Material UI, Figma
 
 
-![JS](https://github.com/harshcut/harshcut/blob/master/static/javascript.svg)   ![Python](https://github.com/harshcut/harshcut/blob/master/static/python.svg)   ![Node](https://github.com/harshcut/harshcut/blob/master/static/nodejs.svg)   ![Express](https://github.com/harshcut/harshcut/blob/master/static/expressjs.svg)   ![POstgreSQL](https://github.com/harshcut/harshcut/blob/master/static/postgresql.svg)   ![React](https://github.com/harshcut/harshcut/blob/master/static/react.svg)   ![Redux](https://github.com/harshcut/harshcut/blob/master/static/redux.svg)   ![Heroku](https://github.com/harshcut/harshcut/blob/master/static/heroku.svg)  ![Postman](https://github.com/harshcut/harshcut/blob/master/static/postman.svg)   ![VSCode](https://github.com/harshcut/harshcut/blob/master/static/vscode.svg)
+<a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" /></a>
+<a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /></a>
+<a href="https://redux.js.org/"><img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" /></a>
+
+<a href="https://www.nodejs.org/"><img alt="Node" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&" /></a>
+<a href="https://www.https://expressjs.com/"><img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white&" /></a>
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&" /></a>
+<a href="https://flask.palletsprojects.com/en/1.1.x/"><img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" /></a>
+<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" /></a>
+<a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&" /></a>
+<a href="https://aws.amazon.com/"><img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" /></a>
+<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-61DAFB?style=flat-square&logo=docker&&color=blue&logoColor=white" /></a>
+<a href="https://heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/-Heroku-61DAFB?style=flat-square&logo=heroku&&color=purple&logoColor=white" /></a>
+<a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/-Git-61DAFB?style=flat-square&logo=git&&color=orange&logoColor=white" /></a>
  
 
 ## My GitHub Stats
