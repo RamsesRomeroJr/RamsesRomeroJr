@@ -25,7 +25,6 @@ I love the process of watching a project go from planning to an actual functioni
 <a href="https://flask.palletsprojects.com/en/1.1.x/"><img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" /></a>
 <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" /></a>
 <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&" /></a>
-<a href="https://aws.amazon.com/"><img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" /></a>
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-61DAFB?style=flat-square&logo=docker&&color=blue&logoColor=white" /></a>
 <a href="https://heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/-Heroku-61DAFB?style=flat-square&logo=heroku&&color=purple&logoColor=white" /></a>
 <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/-Git-61DAFB?style=flat-square&logo=git&&color=orange&logoColor=white" /></a>
