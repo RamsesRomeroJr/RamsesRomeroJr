@@ -30,7 +30,7 @@ I love the process of watching a project go from planning to an actual functioni
  
 
 ## My GitHub Stats
-
+ 
 <a href="https://github.com/RamsesRomeroJr/RamsesRomeroJr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamsesRomeroJr&hide=jupyter%20notebook,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
