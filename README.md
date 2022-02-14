@@ -12,7 +12,7 @@ I love the process of watching a project go from planning to an actual functioni
 - Frameworks and Libraries: Node, Express, Flask, React, Redux 
 - Databases: PostgreSQL
 - Other:  Docker
-- Design: CSS3, HTML5, Styled Components, Material UI, Figma
+- Design: CSS3, HTML5, Styled Components, Material UI, Figma 
 
 
 <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" /></a>
