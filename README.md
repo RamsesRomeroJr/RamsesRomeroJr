@@ -8,7 +8,7 @@ I love the process of watching a project go from planning to an actual functioni
  
 ## Languages & Tools
 
-- Languages: JavaScript, Python
+- Languages: JavaScript, Python, Liquid
 - Frameworks and Libraries: Node, Express, Flask, React, Redux 
 - Databases: PostgreSQL
 - Other:  Docker
