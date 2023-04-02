@@ -7,7 +7,7 @@ I love the process of watching a project go from planning to an actual functioni
 <img align="right" alt="GIF" src="https://bamboomcloud.com/wp-content/uploads/2018/04/blue-office.gif" width="500" height="320" />
  
 ## Languages & Tools
-
+ 
 - Languages: JavaScript, Python, Liquid
 - Frameworks and Libraries: Node, Express, Flask, React, Redux 
 - Databases: PostgreSQL
