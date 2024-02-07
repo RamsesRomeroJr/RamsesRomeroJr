@@ -1,5 +1,5 @@
 # Ramses Romero | Fullstack Software Engineer
-  
+
 I'm a dedicated software developer with the innovative and creative mindset of an entrepreneur. I have  experience with building dynamic web applications in JavaScript, Python and HTML/CSS.
 
 I love the process of watching a project go from planning to an actual functioning product, learning along the way through every  bug found hiding in files then coming out a better programmer
