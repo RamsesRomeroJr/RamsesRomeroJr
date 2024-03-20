@@ -9,7 +9,7 @@ I love the process of watching a project go from planning to an actual functioni
 ## Languages & Tools
  
 - Languages: JavaScript/Typescript, Python, Liquid 
-- Frameworks and Libraries: Node, Express, Flask, React, Redux 
+- Frameworks and Libraries: Node, Express, Flask, React, Redux, Vue
 - Databases: PostgreSQL
 - Other:  Docker 
 - Design: CSS3, HTML5, Styled Components, Material UI, Figma
